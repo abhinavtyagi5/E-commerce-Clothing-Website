@@ -1,6 +1,6 @@
 # E-commerce-Clothing-Website
 
-- This is an E-commerce Clothing Website made by using HTML5 & Bootstrap v.4.6/5.0
+- This is an E-commerce Clothing Website made by using HTML5, JQuery & Bootstrap v.4.6/5.0
 
 - I have used Bootstrap for NAVBAR & used a logo (TbeaT Clothing) which is clickable.
 
